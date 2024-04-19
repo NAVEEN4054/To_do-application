@@ -1,3 +1,2 @@
 # To_do-application
-'''Slash mark internship basic project
-It is a basic project for python slashmark internships'''
+It is a basic application for managing daily activities of an individual with simple program
