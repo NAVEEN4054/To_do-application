@@ -1,13 +1,17 @@
-TO-DO APPLICATION WITH PYTHON:
+TO-DO APPLICATION WITH PYTHON :
+
 This is a simple to-do application implemented in Python, allowing users to manage tasks directly from the command line interface.
 FEATURES
+
 Add Task: Users can add tasks to the to-do list.
 Display Tasks: Display the tasks that need to be performed.
 Mark Completed: Users can mark tasks as completed.
 Remove Task: Remove unwanted t asks from the list.
 TECHNOLOGIES USED:
+
 Python
 HOW TO USE:
+
 1.Clone the repository to the IDE.
 2.Navigate the Project Directory.
 3.Run the application.
