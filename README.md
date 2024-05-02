@@ -15,9 +15,9 @@ Python
 
 HOW TO USE:
 
-1.Clone the repository to the IDE.
-2.Navigate the Project Directory.
-3.Run the application.
+1.Clone the repository to the IDE.   
+2.Navigate the Project Directory.   
+3.Run the application.   
 4.Follow the commands of the command line interface to perform the basic operations.
 
 CONTRIBUTIONS:
