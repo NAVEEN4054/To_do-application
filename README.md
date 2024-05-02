@@ -4,10 +4,10 @@ This is a simple to-do application implemented in Python, allowing users to mana
 
 FEATURES
 
-Add Task: Users can add tasks to the to-do list.
-Display Tasks: Display the tasks that need to be performed.
-Mark Completed: Users can mark tasks as completed.
-Remove Task: Remove unwanted t asks from the list.
+Add Task: Users can add tasks to the to-do list. 
+Display Tasks: Display the tasks that need to be performed. 
+Mark Completed: Users can mark tasks as completed.  
+Remove Task: Remove unwanted t asks from the list. 
 
 TECHNOLOGIES USED:
 
