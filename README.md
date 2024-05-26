@@ -1,4 +1,4 @@
-TO-DO APPLICATION WITH PYTHON :
+#TO-DO APPLICATION WITH PYTHON :
 
 This is a simple to-do application implemented in Python, allowing users to manage tasks directly from the command line interface.
 
