@@ -23,7 +23,8 @@ Python
 2.open the terminal or command prompt.   
 3.Navigate the Project Directory where file is saved.   
 3.Run the application using following instruction:  
-   python todo_list.py   
+   ```bash
+python todo_list.py```   
 4.Follow the commands of the command line interface to perform the basic operations.
 
 ## USING THE APPLICATION
