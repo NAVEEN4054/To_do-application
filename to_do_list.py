@@ -20,7 +20,7 @@ def add_task(task_tobeadded):
 # To Mark task as a completed
 def mark_task_completed(task_number):
     if len(li_task)==0:
-        print("your lis of task is empty")
+        print("your list of task is empty")
     
     elif 1<=task_number<=len(li_task):
         li_task[task_number-1]['completed']=True
